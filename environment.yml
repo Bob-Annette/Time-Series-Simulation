@@ -1,0 +1,14 @@
+name: Time-Series-Simulation
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - ipywidgets
+  - typing
+  - datetime
+  - IPython
+  - warning
+  - time
+  - chinese_calender
