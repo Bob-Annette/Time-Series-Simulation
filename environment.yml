@@ -11,4 +11,4 @@ dependencies:
   - IPython
   - warning
   - time
-  - chinese_calender
+  - chinesecalender
