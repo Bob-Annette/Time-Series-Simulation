@@ -1,6 +1,6 @@
 name: Time-Series-Simulation
 channels:
-  - https://pypi.tuna.tsinghua.edu.cn/simple
+  - conda-forge
 dependencies:
   - numpy
   - matplotlib
