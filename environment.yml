@@ -11,7 +11,7 @@ dependencies:
   - pandas
   - partd
   - bokeh
-  - desk
+  - dask
   - ipywidgets
   - typing
   - pip:
