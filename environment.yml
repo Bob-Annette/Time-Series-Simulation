@@ -4,13 +4,15 @@ channels:
 dependencies:
   - pip
   - numpy
+  - psutil
+  - toolz
   - matplotlib
+  - dill
   - pandas
+  - partd
+  - bokeh
+  - desk
   - ipywidgets
   - typing
   - pip:
       - chinesecalendar
-      - datetime
-      - IPython
-      - warning
-      - time
