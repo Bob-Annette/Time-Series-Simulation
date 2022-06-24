@@ -8,9 +8,9 @@ dependencies:
   - pandas
   - ipywidgets
   - typing
-  - datetime
-  - IPython
-  - warning
-  - time
   - pip:
-     - chinesecalendar
+      - chinesecalendar
+      - datetime
+      - IPython
+      - warning
+      - time
