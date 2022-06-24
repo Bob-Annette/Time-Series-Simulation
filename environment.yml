@@ -2,6 +2,7 @@ name: Time-Series-Simulation
 channels:
   - conda-forge
 dependencies:
+  - pip
   - numpy
   - matplotlib
   - pandas
@@ -11,3 +12,5 @@ dependencies:
   - IPython
   - warning
   - time
+  - pip:
+     - chinesecalendar
